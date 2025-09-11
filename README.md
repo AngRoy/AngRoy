@@ -5,15 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angroy" alt="angroy" /></a> </p> -->
 
-- 🔭 I’m currently working on **Plagiarism Detection in Software using DL and Parse Trees**
+- 📫 How to reach me **angshuman.developer@gmail.com**
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **ML/DL projects particularly related to MedTech**
-
-- 📫 How to reach me **angshumanactive@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Voso-vwahgJqL5DwN_K8sEuQyp9BYuP/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rlOah0Azj-1I7Qd86wlyb5GPPvLanR33/view?usp=sharing)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
